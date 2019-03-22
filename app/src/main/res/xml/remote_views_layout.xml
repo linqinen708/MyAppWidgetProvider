@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:initialLayout="@layout/widget_content"
+                    android:minWidth="260dp"
+                    android:minHeight="60dp"
+                    android:updatePeriodMillis="8640000">
+
+    <!--
+    initialLayout：桌面小组件的布局XML文件
+minHeight：桌面小组件的最小显示高度
+minWidth：桌面小组件的最小显示宽度
+updatePeriodMillis：桌面小组件的更新周期。这个周期最短是30分钟
+-->
+</appwidget-provider>
